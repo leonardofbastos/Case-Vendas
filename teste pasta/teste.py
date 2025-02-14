@@ -1,6 +1,6 @@
 import pandas as pd 
 
 def exec():
-        print('Olá!')
+        print('Olá')
 
 exec()
